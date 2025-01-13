@@ -136,4 +136,4 @@ Each cycle is stored as a list of node indices.
 
 ---
 
-Feel free to adapt the script to your specific needs and extend its functionality as required.
+
