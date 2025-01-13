@@ -1,9 +1,9 @@
 # **README for Graph Cycle Analysis Script**
 
 ## **Overview**
-This script is designed to process a graph represented by its adjacency matrix, identify all cycles of a specified length range, and generate a matrix \( B_2 \) that encodes cycle-edge relationships. Additionally, the script provides tools to visualize the graph and highlight cycles with specific properties, such as circulation.
+This script is designed to process a graph represented by its adjacency matrix, identify all cycles of a specified length range, and generate a matrix \( B_2 \) that encodes cycle-edge relationships. 
 
-The script can be used to generate \( B_2 \), save it in `.mat` format, and use it as input for other analyses (e.g., with the R script mentioned).
+
 
 ---
 
@@ -120,13 +120,6 @@ Each cycle is stored as a list of node indices.
 6. **Visualization:**
    - Plot the graph and overlay cycle information.
 
----
-
-## **Applications**
-- **Network Analysis:** Identify fundamental cycles in networks.
-- **Graph Theory Research:** Study cycle properties and topological relationships.
-- **Circuit Analysis:** Analyze current flow or circulation in electrical networks.
-- **Visualization:** Explore graph structures interactively.
 
 ---
 
